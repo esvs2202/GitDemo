@@ -1,6 +1,7 @@
 # script to compute the profit margin
 
 class ProfitMarginCalculator:
+    ''' Developed by Sriram ESV on March 20, 2024 '''
     def __init__(self, investment, revenue, operating_expenditure, tax):
         self.investment = investment
         self.revenue = revenue
